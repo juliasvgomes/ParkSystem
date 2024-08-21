@@ -1,0 +1,14 @@
+C:\Users\julia\Documents\projetos\ParkSystem\bin\Debug\net8.0\ParkSystem.exe
+C:\Users\julia\Documents\projetos\ParkSystem\bin\Debug\net8.0\ParkSystem.deps.json
+C:\Users\julia\Documents\projetos\ParkSystem\bin\Debug\net8.0\ParkSystem.runtimeconfig.json
+C:\Users\julia\Documents\projetos\ParkSystem\bin\Debug\net8.0\ParkSystem.dll
+C:\Users\julia\Documents\projetos\ParkSystem\bin\Debug\net8.0\ParkSystem.pdb
+C:\Users\julia\Documents\projetos\ParkSystem\obj\Debug\net8.0\ParkSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\Documents\projetos\ParkSystem\obj\Debug\net8.0\ParkSystem.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\projetos\ParkSystem\obj\Debug\net8.0\ParkSystem.AssemblyInfo.cs
+C:\Users\julia\Documents\projetos\ParkSystem\obj\Debug\net8.0\ParkSystem.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\projetos\ParkSystem\obj\Debug\net8.0\ParkSystem.dll
+C:\Users\julia\Documents\projetos\ParkSystem\obj\Debug\net8.0\refint\ParkSystem.dll
+C:\Users\julia\Documents\projetos\ParkSystem\obj\Debug\net8.0\ParkSystem.pdb
+C:\Users\julia\Documents\projetos\ParkSystem\obj\Debug\net8.0\ParkSystem.genruntimeconfig.cache
+C:\Users\julia\Documents\projetos\ParkSystem\obj\Debug\net8.0\ref\ParkSystem.dll
